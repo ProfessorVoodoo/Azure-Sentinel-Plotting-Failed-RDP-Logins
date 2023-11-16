@@ -1,4 +1,4 @@
-<h1>Azure Sentinel | Plotting Failed Global RDP Logins</h1>
+<h1>SOC & Honeypot in Azure</h1>
 
 <h2>Description</h2>
 Project consists of setting up an instance of Azure Sentinel and a VM also within Azure to display how Sentinel can be utilized show and locate attempted logins from different locations around the globe. The VM was purposely created and configured to be vulnerable to act as a honeypot, which served as a source to collect logs from failed logins. A powershell script was created which utilizes a generated API key from IPGeolocation.io and the function of making a bunch of sample log files that's used to train the Log Analytics workspace. Over time, with the VM made vulnerable, the result are findings of several discoveries and attempts to login to the machine with several different username/password combinations, geographical pin-pointing and what IP's were used to perform the attempts.
