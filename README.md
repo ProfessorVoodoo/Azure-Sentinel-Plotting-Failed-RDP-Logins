@@ -20,7 +20,7 @@ Project consists of setting up an instance of Azure Sentinel and a VM also withi
 
 <p align="center">
 Configure and Launch the VM: <br/>
-<img src="https://imgur.com/MJn8fHy.png" height="80%" width="80%" alt="Azure Sentinel Steps"/>
+<img src="https://i.imgur.com/MJn8fHy.png" height="80%" width="80%" alt="Azure Sentinel Steps"/>
 <br />
 <br />
 RDP into VM and disable Windows Defender: <br/>
