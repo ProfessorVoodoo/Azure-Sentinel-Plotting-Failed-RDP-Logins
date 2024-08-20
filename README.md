@@ -24,28 +24,28 @@ Configure and Launch the VM: <br/>
 <br />
 <br />
 RDP into VM and disable Windows Defender: <br/>
-<img src="https://imgur.com/91HV6Ru.png" height="80%" width="80%" alt="Azure Sentinel Steps"/>
+<img src="https://i.imgur.com/91HV6Ru.png" height="80%" width="80%" alt="Azure Sentinel Steps"/>
 <br />
 <br />
 Obtain API key and write script to fetch logins(script must be running in order to obtain logs): <br/>
-<img src="https://imgur.com/dyr16g9.png" height="80%" width="80%" alt="Azure Sentinel Steps"/>
-<img src="https://imgur.com/pWY4wzU.png" height="80%" width="80%" alt="Azure Sentinel Steps"/>
+<img src="https://i.imgur.com/dyr16g9.png" height="80%" width="80%" alt="Azure Sentinel Steps"/>
+<img src="https://i.imgur.com/pWY4wzU.png" height="80%" width="80%" alt="Azure Sentinel Steps"/>
 <br />
 <br />
 Create a workspace for log analytics and create queries to parse details from script:  <br/>
-<img src="https://imgur.com/VitdeiP.png" height="80%" width="80%" alt="Azure Sentinel Steps"/>
+<img src="https://i.imgur.com/VitdeiP.png" height="80%" width="80%" alt="Azure Sentinel Steps"/>
 <br />
 <br />
 Create workbook inside of Sentinel to make adjustments to logs:  <br/>
-<img src="https://imgur.com/oSuM8oc.png" height="80%" width="80%" alt="Azure Sentinel Steps"/>
+<img src="https://i.imgur.com/oSuM8oc.png" height="80%" width="80%" alt="Azure Sentinel Steps"/>
 <br />
 <br />
 Results after 2hrs:  <br/>
-<img src="https://imgur.com/amkyy2C.png" height="80%" width="80%" alt="Azure Sentinel Steps"/>
+<img src="https://i.imgur.com/amkyy2C.png" height="80%" width="80%" alt="Azure Sentinel Steps"/>
 <br />
 <br />
 Results after a full day:  <br/>
-<img src="https://imgur.com/360ZB3l.png" height="80%" width="80%" alt="Azure Sentinel Steps"/>
+<img src="https://i.imgur.com/360ZB3l.png" height="80%" width="80%" alt="Azure Sentinel Steps"/>
 </p>
 
 <!--
