@@ -9,14 +9,15 @@ Project consists of setting up an instance of Azure Sentinel and a VM also withi
 
 - <b>PowerShell</b> 
 - <b>Microsoft Azure Sentinel</b>
+- <b>Microsoft Azure Sentinel Log Analytics Workspace</b>
 - <b>IPGeolocation.io API</b>
 
-<h2>Environments Used </h2>
+<h2>Environments Used</h2>
 
 - <b>Windows 10</b> (22H2)
 - <b>Microsoft Azure</b>
 
-<h2>Program walk-through:</h2>
+<h2>Program Walkthrough:</h2>
 
 <p align="center">
 Configure and Launch the VM: <br/>
